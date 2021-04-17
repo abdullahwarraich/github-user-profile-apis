@@ -1,0 +1,10 @@
+{
+  "include": [
+    "./server/"
+  ],
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "target": "es6"
+  }
+}

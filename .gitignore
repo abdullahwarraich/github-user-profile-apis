@@ -1,0 +1,8 @@
+.DS_Store
+.cache
+node_modules
+dist
+.vscode
+# we use npm
+yarn.lock
+npm.lock
