@@ -15,3 +15,8 @@ export const gitHubUserOrgs = async (req: Request) => {
   const { userName } = req.params
   return await gitHubUser(userName, 'orgs')
 }
+
+export const gitHubUserRepos = async (req: Request) => {
+  const { userName } = req.params
+  return await gitHubUser(userName, 'repos')
+}
