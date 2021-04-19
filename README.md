@@ -29,7 +29,7 @@
   2. Deployed on heroku
 
 
-### Api endpoint are
+### Api endpoints are
 
 <details>
 <summary>GET /</summary>
