@@ -1,4 +1,4 @@
-# Api to get github user info
+# Api's to get github user info
 
 ### Prerequisites
 
