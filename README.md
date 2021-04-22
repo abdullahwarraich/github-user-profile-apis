@@ -18,11 +18,11 @@
 **Implementation discription**
   1. Used ExpressJs framework
   2. Divided the app into following architecture
-    - Routes to manage endpoints 
-    - Controllers for requests handling
-    - Modules contain the bussiness logic
-    - Services for third parties integerations
-    - Untilities for helpers
+      - Routes to manage endpoints 
+      - Controllers for requests handling
+      - Modules contain the bussiness logic
+      - Services for third parties integerations
+      - Untilities for helpers
 
 **Attempted Optional Feature**
   1. TypeScript used
