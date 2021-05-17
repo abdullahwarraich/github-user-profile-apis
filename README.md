@@ -23,10 +23,8 @@
       - Modules contain the bussiness logic
       - Services for third parties integerations
       - Untilities for helpers
-
-**Attempted Optional Feature**
-  1. TypeScript used
-  2. Deployed on heroku
+   3. TypeScript used
+   4.  Deployed on heroku
 
 
 ### Api endpoints are
